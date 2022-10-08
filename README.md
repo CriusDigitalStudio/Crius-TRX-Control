@@ -15,6 +15,8 @@ It offers :
 
 -1 Master Volume linear Fader 88mm
 
+
 -1 5-Way Switch Joystick to  : Secect Clips to the Session View and go back and forth at the timeline
 
 
+![Crius TRX Control_FRITZING](https://user-images.githubusercontent.com/63908995/194705650-255a1b32-9f06-411e-89bd-b9d9c4c8dfff.png)
