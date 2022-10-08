@@ -20,3 +20,7 @@ It offers :
 
 
 ![Crius TRX Control_FRITZING](https://user-images.githubusercontent.com/63908995/194705650-255a1b32-9f06-411e-89bd-b9d9c4c8dfff.png)
+
+
+Here you can see the Video Tutorial in Greek and demostration of its functions.
+https://youtu.be/3UxABi-JcEU
