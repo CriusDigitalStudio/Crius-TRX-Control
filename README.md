@@ -4,6 +4,7 @@ This is a MIDI Controller based on the Arduino Due mainly because of the many GP
 THE MAIN features are USBMIDI and AUTO MAPPING for DAWs that support Mackie Control MIDI Protocol
 
 It offers : 
+
 -16 Rotary Encoders to Control Volume+ PAN for 8 Tracks
 
 -4 OLED Displays 0.96" to show Volume/PAN/Mute/Solo/ARM for 8 Tracks
